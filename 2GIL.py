@@ -18,4 +18,7 @@
 ##############################
 
 name = input ("Please enter ...")
-print ("name is " + name)
+print ("name is THE" + name)
+print ("name is THE" + name)
+print ("name is THE 3" + name)
+print ("name is THE 4" + name)
